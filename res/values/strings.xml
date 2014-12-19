@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">كوكاكولا احلى مع...</string>
+    <string name="about">عن البرنامج</string>
+    <string name="exit">خروج</string>
+     <string name="design">اختيار تصميم</string>
+    
+
+</resources>

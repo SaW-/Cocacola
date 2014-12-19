@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="DuplicateIds" severity="warning" />
+    <issue id="ExtraTranslation" severity="warning" />
+    <issue id="Instantiatable" severity="error" />
+    <issue id="MissingTranslation" severity="warning" />
+</lint>
